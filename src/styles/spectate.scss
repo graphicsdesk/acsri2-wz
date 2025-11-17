@@ -145,14 +145,21 @@ b {
 @media (max-width: 500px) {
   .cover-hed header {
     margin-top: 50%;
-    transform: translateY(-138%);
+    transform: translateY(-180%);
   }  
 }
 
 @media (max-width: 400px) {
   .cover-hed header {
     margin-top: 50%;
-    transform: translateY(-130%);
+    transform: translateY(-200%);
+  }  
+}
+
+@media (max-width: 330px) {
+  .cover-hed header {
+    margin-top: 50%;
+    transform: translateY(-150%);
   }  
 }
 
@@ -451,30 +458,33 @@ header {
 
 .image {
   margin: 30px auto 25px auto;
+  text-align: center; // Helps with caption alignment
 
   img {
     display: block;
-   width: 80%;
-   max-width: 700px;
-   margin: auto;
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
   }
 
   .image-caption-text {
+    width: 80%; // Match image width
+    max-width: 800px; 
+    margin: 10px auto 0 auto; // Centered below image
     text-align: left;
-   font-size: clamp(8px, 3vw, 18px) !important;
-   font-family: $georgia;
-   color: #666;
-   margin: auto;
-   padding: 0 $gbody-padding / 2;
-   line-height: 1.3;
-   max-width: 700px;
-   margin-left: auto;
+    font-size: clamp(8px, 3vw, 18px) !important;
+    font-family: $georgia;
+    color: #666;
+    padding: 0 $gbody-padding / 2;
+    line-height: 1.3;
+    
 
     .image-credit {
       color: #999;
     }
   }
 }
+
 
 @media (max-width: 660px) {
   .image .image-caption-text {

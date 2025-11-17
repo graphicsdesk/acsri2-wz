@@ -7,12 +7,855 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
-        "USE_NEWS_NAV": true,
-        "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "body": [
+          {
+            "type": "text",
+            "value": "<i>Edited by</i> Eye <i>Senior Staff Writer </i><a href=\"https://www.columbiaspectator.com/contributors/claire-burke/\"><i>Claire Burke</i></a><i>, Managing Editor </i><a href=\"https://www.columbiaspectator.com/contributors/heather-chen/\"><i>Heather Chen</i></a><i>, Editor in Chief </i><a href=\"https://www.columbiaspectator.com/contributors/shea-vance/\"><i>Shea Vance</i></a><i>, Managing Editor of</i> The Eye <a href=\"https://www.columbiaspectator.com/contributors/itzel-franco/\"><i>Itzel Franco</i></a><i>, Head Copy Editor Posey Chiddix, Deputy Copy Editor Reese Ransweiler, and </i>Eye <i>Senior Staff Writer </i><a href=\"https://www.columbiaspectator.com/contributors/haniya-cheema/\"><i>Haniya Cheema</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "On April 17, 2024, student protesters pitched the “Gaza Solidarity Encampment” on Columbia’s South Lawn. Columbia University Apartheid Divest announced the encampment would disband under one condition: the University’s divestment from companies and institutions that “profit from Israeli apartheid, genocide, and occupation in Palestine.”"
+          },
+          {
+            "type": "text",
+            "value": "The closest Columbia came to meeting this demand was an offer made by two Columbia administrators on behalf of the University in Butler Library on April 25, 2024. While the deal offered an expedited review of certain divestment proposals, it never promised that a proposal would reach the board of trustees for a vote."
+          },
+          {
+            "type": "text",
+            "value": "Three teams were present in the room. The University representatives were Soulaymane Kachani, senior vice provost; Carlos Alonso, dean of the Graduate School of Arts and Sciences; and a third member of the administration who assisted in note-taking. The encampment negotiators were Mahmoud Khalil, SIPA ’24, and Farah, who requested anonymity and a pseudonym citing safety concerns. Also present were five third-party mediators from the University Senate, including chair of the senate’s executive committee Jeanine D’Armiento and then-Business School senator Minhas Wasaya, Business ’24."
+          },
+          {
+            "type": "text",
+            "value": "The April 25, 2024, offer from the University included an expedited review by the University’s long-standing investment advisory body of three proposals that would be written by student protesters. This body, the Advisory Committee on Socially Responsible Investing, was established in 2000 to make recommendations to the trustees about investments in the University’s endowment."
+          },
+          {
+            "type": "text",
+            "value": "According to the University offer subpoenaed and published in October 2024 in the Republican-led House Committee on Education and the Workforce <a href=\"https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf\">report</a> on antisemitism on college campuses, the ACSRI would review two proposals for divestment from companies that are “complicit in violating international law or international treaties recognized by the US government” or that “manufacture certain categories of weapons.” The third proposal, alternative to the first two, would ask Columbia to use its rights as a shareholder in a company to make recommendations to the company or its board of directors regarding business practices."
+          },
+          {
+            "type": "text",
+            "value": "“We can go through ACSRI, but on top of the ACSRI recommendation, we want the board to issue its own divestment statement,” Farah told <i>The Eye</i>. “But they did not want to do that at all.”"
+          },
+          {
+            "type": "text",
+            "value": "None of the University’s proposals mentioned Israel explicitly."
+          },
+          {
+            "type": "text",
+            "value": "The April 27, 2024, counteroffer made by CUAD, also published in the House report, demanded the board issue a preliminary commitment to these proposals prior to the ACSRI’s review. The University did not accept the counteroffer."
+          },
+          {
+            "type": "text",
+            "value": "During the 10 days of negotiations, the University insisted on channeling any divestment proposals through the ACSRI instead of allowing protesters to go straight to the trustees. However, reports of surveillance of all three parties—the encampment negotiators, the administration’s representatives, and the University Senate—contributed to a breakdown of trust that made it difficult to broker a deal, according to sources in the room."
+          },
+          {
+            "type": "text",
+            "value": "Toward the end of negotiations, after days of “good faith” discussions, administrative representatives became “more belligerent, harsh, threatening, and punitive,” Wasaya wrote in a statement to <i>The Eye</i>—even as the demands and nature of the encampment stayed the same. Administrators insisted they were facing heavy external pressure and referenced “outside forces,” he added."
+          },
+          {
+            "type": "text",
+            "value": "One day after the administration’s final offer on April 27, 2024, negotiations came to a halt."
+          },
+          {
+            "type": "text",
+            "value": "Then-University President Minouche Shafik released a <a href=\"https://president.columbia.edu/news/statement-columbia-university-president-minouche-shafik-4-29\">statement</a> the morning of April 29, 2024, about the administration’s efforts to end the encampment through negotiation."
+          },
+          {
+            "type": "text",
+            "value": "“Regretfully, we were not able to come to an agreement,” Shafik wrote."
+          },
+          {
+            "type": "text",
+            "value": "Early the next morning, dozens of protesters <a href=\"https://www.columbiaspectator.com/news/2024/04/30/dozens-occupy-hamilton-hall-as-pro-palestinian-protests-spread-across-campus/\">occupied</a> Hamilton Hall, demanding the University divest from companies with ties to Israel."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BXLWLSXK7RA2NLUIAFFJYC26CY.jpg",
+              "caption": "Protesters gathered outside Hamilton Hall while dozens occupied the building at around 12:30 a.m. on April 30, 2024.",
+              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/gabriella-gregor-splaver/\">Gabriella Gregor Splaver </a>"
+            }
+          },
+          {
+            "type": "text",
+            "value": "To understand the negotiations' breakdown, <i>The Eye </i>spoke to Farah, current and former University senators, divestment proposal writers, and a former member of the ACSRI. <i>The Eye </i>conducted a yearlong analysis of documents that reveal greater detail about the trajectory and ultimate breakdown of dialogue between the University and students demanding divestment from Israel and weapons manufacturing. These documents include 23 years of proposals to the ACSRI and Columbia’s financial records."
+          },
+          {
+            "type": "text",
+            "value": "On March 3, <i>The Eye </i>reached out to Khalil, Farah’s co-negotiator, who agreed to an interview. Less than a week later, on March 8, Immigration and Customs Enforcement officers entered his University-owned apartment building and <a href=\"https://www.columbiaspectator.com/news/2025/04/24/ice-did-not-have-arrest-warrant-for-mahmoud-khalil-sipa-24-at-time-of-arrest-court-documents-reveal/\">detained</a> Khalil without an arrest warrant."
+          },
+          {
+            "type": "text",
+            "value": "Through the resurgence of on-campus demonstrations in 2025 and two presidential turnovers, <i>The Eye</i> traced a collapse of negotiations between administrators and protesters that has been ongoing since April 2024. <i>The Eye </i>obtained a recording of a phone call made during the May 7 Butler Library <a href=\"https://www.columbiaspectator.com/news/2025/05/07/pro-palestinian-protesters-and-public-safety-officers-clash-at-emergency-rally-in-butler-library/\">protest</a> by acting University President Claire Shipman, CC ’86, SIPA ’94, to a student unaffiliated with the demonstration. Shipman refused the student’s request to negotiate with those protesting."
+          },
+          {
+            "type": "text",
+            "value": "From the negotiations in April 2024 to Shipman’s call in May 2025, the University has placed administrative buffers, a disempowered proxy body—the ACSRI, which has a decades-long record of rejected divestment proposals—and police force between protesters and the trustees in negotiations."
+          },
+          {
+            "type": "text",
+            "value": "Because the University chose to keep important details of its process—including the exact chain of command outside the negotiation room—unspecified, it was left to parties involved in the 2024 negotiations to infer how the University came to decisions, according to members of the senate. A lack of transparency on the part of the University additionally strained the ability of the University Senate to fulfill its role as a neutral mediator, senators said."
+          },
+          {
+            "type": "text",
+            "value": "One year later, however, sources in the room told <i>The Eye</i> that the process positioned key administrators to be the public face for negotiations and kept others within University leadership, including the trustees, away from the conversation. As a result, the protesters never came into direct dialogue with those empowered to answer their demands."
+          },
+          {
+            "type": "text",
+            "value": "<b>Part One</b>"
+          },
+          {
+            "type": "text",
+            "value": "<b>After decades of dismissal, encampments renew divestment demand</b>"
+          },
+          {
+            "type": "text",
+            "value": "On November 13, 2002, the Columbia and Barnard Faculty Committee on Divestment <a href=\"https://web.archive.org/web/20030207075250/http://columbiadivest.org/press2.html\">submitted</a> a divestment proposal to the ACSRI during its first-ever round of review. <a href=\"https://web.archive.org/web/20030414020728/http://columbiadivest.org/sig_list.html\">Endorsed</a> by more than 100 Columbia faculty members and hundreds of students, the petition demanded that Columbia divest from companies that made or sold arms to Israel."
+          },
+          {
+            "type": "text",
+            "value": "Many universities, including Columbia, have an endowment that comprises donated funds invested in stocks, bonds, and other assets to generate revenue for the institution. When protesters demand divestment, their intent is for the university to sell its investments in the companies to which the protesters object."
+          },
+          {
+            "type": "text",
+            "value": "The 2002 petition to the ACSRI criticized a statement then-University President Lee Bollinger, Law ’71, <a href=\"https://web.archive.org/web/20040408202237/http://www.columbiadivest.org/pres_statement.html\">published</a> in response to an earlier version of the petition that had circulated around campus. Bollinger wrote that he supported “rigorous and open debate” about the Middle East but would not support the petition, calling its comparison of Israel to apartheid South Africa “an analogy I believe is both grotesque and offensive.”"
+          },
+          {
+            "type": "text",
+            "value": "A few weeks later, the ACSRI <a href=\"https://web.archive.org/web/20100622173502/http://finance.columbia.edu/sri/annual_reports/pdf/annual_report/2002-2003_ACSRI_Annual_Report_final%20-%20minus%20vote%20record.pdf\">rejected</a> the petition, arguing that sanctions against Israel were not widely supported by the campus community and that the ACSRI itself did not believe that “such sanctions are justified.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BXLWLSXK7RA2NLUIAFFJYC26CY.jpg",
+              "caption": "Two students holding up a Palestinian flag near the Sundial during a protest in 2002.",
+              "credit": "Miriam Haskell"
+            }
+          },
+          {
+            "type": "text",
+            "value": "According to the ACSRI website, for a proposal to succeed, there first “must be broad consensus within the University community regarding the issue,” which functions as a threshold test. The ACSRI will not evaluate the proposal further if it fails to demonstrate that it has achieved a broad consensus."
+          },
+          {
+            "type": "text",
+            "value": "If it does, the ACSRI then evaluates the “merits of the dispute must lie clearly on one side” and ensure that divestment must be “more viable and appropriate than ongoing communication and engagement with company management.” The ACSRI asks the third question because the committee often considers shareholder proposals, or <a href=\"https://www.finance.columbia.edu/content/proxy-voting-guidelines\">proxies</a>, as an alternative method of engagement, where instead of recommending divestment, the ACSRI recommends that Columbia exercise its rights as a shareholder, which could include asking corporations to create a report about their policies regarding human rights."
+          },
+          {
+            "type": "text",
+            "value": "In 2002, Spectator <a href=\"https://spectatorarchive.library.columbia.edu/?a=d&d=cs20021115-01.2.5&srpos=1&e=-------en-20--1--txt-txIN-%22seven+to+one%22----2002--\">reported</a> that students who opposed the divestment petition signed an “anti-divestment” petition, outnumbering the student signatures for divestment by about seven to one. Since then, pro-Palestinian student activism at Columbia has grown."
+          },
+          {
+            "type": "text",
+            "value": "In 2016, the University’s chapters of Students for Justice in Palestine and Jewish Voice for Peace publicly <a href=\"https://web.archive.org/web/20160306010812/https://www.columbiaspectator.com/news/2016/02/02/new-student-group-demands-divestment-companies-benefiting-israeli-occupation/\">united</a> to form CUAD. CUAD became defunct in 2020, but was later revived as a coalition of 90 student groups in November 2023, about a month after Hamas’ October 7 attack on Israel, which killed roughly 1,200 people, and the beginning of Israel’s current war in Gaza, which is estimated to have killed over 50,000 people."
+          },
+          {
+            "type": "text",
+            "value": "According to <i>The Eye</i>’s<i> </i>analysis of the ACSRI’s annual reports and meeting minutes, the ACSRI has reviewed at least 17 proposals over the past 23 years. Proposals concerning divestment from private prisons, fossil fuels, and arms manufacturing are the most frequent."
+          },
+          {
+            "type": "text",
+            "value": "The ACSRI formally <a href=\"https://drive.google.com/file/d/1J7a47ox-cLv_HirgMpmYyFSFKcR7KR-g/view\">accepted</a> a 2015 proposal to divest direct stocks in companies “engaged in the operation of private prisons,” which was ultimately <a href=\"https://web.archive.org/web/20210205052213/https://www.columbiaspectator.com/news/2015/06/22/columbia-will-divest-private-prison-industry/\">approved</a> by the trustees. The ACSRI has also <a href=\"https://www.finance.columbia.edu/sites/default/files/content/ACSRI/ACSRI%202020%20-%202021/October%2021%202020%20ACSRI%20Minutes%20with%20fossil%20fuel%20documents.pdf\">considered</a> fossil fuel divestment for years, and the University <a href=\"https://sustainable.columbia.edu/content/sustainable-investments\">published</a> a formal fossil fuel investment policy in 2021."
+          },
+          {
+            "type": "text",
+            "value": "Though student and faculty groups have repeatedly demanded that Columbia divest from companies profiting from various modes of weapons manufacturing, the ACSRI has rejected and dismissed all of these attempts. No proposal to divest from weapons manufacturing has ever been brought to the trustees for a vote."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scrolly.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The ACSRI website reads that the committee votes on proposals with 12 <a href=\"https://www.finance.columbia.edu/content/current-acsri-membership\">publicly listed </a>voting members, drawn in equal proportion from students, faculty, and alumni. In addition, the ACSRI contains two University officers who are nonvoting members. The student members are nominated through the University Senate’s student affairs committee, which sends out calls for applications via email. Faculty and alumni are nominated by various members of University administration. According to a prior member of the ACSRI, after the student affairs committee’s nomination, they were interviewed by one of the ACSRI’s nonvoting officers and then offered the position by email."
+          },
+          {
+            "type": "text",
+            "value": "In February 2024, the ACSRI <a href=\"https://www.finance.columbia.edu/sites/default/files/content/ACSRI/ACSRI%202023%20-%202024/2.29.2024%20ACSRI%20Statement%20Response%20on%20the%20CUAD%20Proposal.pdf\">rejected</a> a 2023 proposal authored by CUAD to “to withdraw financial support from Israel.” <i>The Eye</i> spoke with two Columbia students that have acted as divestment proposal writers and researchers for the movement. One of them, Sage, whom <i>The Eye </i>granted anonymity and a pseudonym due to fear of retaliation, was involved in drafting the 2023 proposal."
+          },
+          {
+            "type": "text",
+            "value": "<i>The Eye </i>analyzed the 2023 proposal and the ACSRI’s response, annotating key arguments made by each party."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "acsri1.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Fully assessing Columbia’s investments is difficult because most of Columbia’s nearly $15 billion <a href=\"https://www.columbiaspectator.com/news/2024/10/16/columbias-endowment-rises-to-148-billion-on-pace-to-outperform-peer-institutions-in-investment-returns/\">endowment</a> is not invested in public markets. Proposal writers are thus made to peek through small windows—like public tax return data—and identify the relevant slivers of capital."
+          },
+          {
+            "type": "text",
+            "value": "Sage said that although the group was able to <a href=\"https://docs.google.com/spreadsheets/d/1MfzTwVeg-joMrDEU12wX3C78yser91N60kMj2-_16C8/edit?gid=0#gid=0\">cite</a> examples of Columbia’s direct and indirect investment into companies linked to human rights violations, including Israel’s expansion of settlements into the West Bank <a href=\"https://www.theguardian.com/world/2022/may/12/israel-approves-2700-housing-units-in-west-bank-settlements\">considered</a> by most in the global community to be illegal under international law, the lack of transparency made it difficult to accurately capture the depth of Columbia’s financial involvement."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "acsri2.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The ACSRI’s meeting minutes and annual reports from 2000 to 2023 show increased engagement with past divestment proposals, even if they were ultimately rejected. The website states that during the ACSRI’s tentative December to April process, the committee “may request further information or an in-person presentation at an ACSRI meeting” up until March 1."
+          },
+          {
+            "type": "text",
+            "value": "“Other organizers had prepared us to do that, you know, they have to entertain us,” Sage said about presenting to the ACSRI. “They have to talk to us. They have to entertain these presentations.”"
+          },
+          {
+            "type": "text",
+            "value": "According to Sage, the committee never requested further information about the proposal nor invited CUAD to present to the ACSRI."
+          },
+          {
+            "type": "text",
+            "value": "The University declined to comment about the ACSRI’s engagement with the CUAD proposal."
+          },
+          {
+            "type": "text",
+            "value": "A 2019 <a href=\"https://www.columbiaspectator.com/eye-lead/2019/02/07/first-advise-no-harm-the-open-closed-and-revolving-doors-of-columbias-socially-responsible-investing-2/\">report</a> from <i>The Eye</i> noted the disappearance of the ACSRI town hall meetings in 2011, potentially indicating reduced efforts to reach out to the campus community when compared to other bodies, like the University Senate, which holds monthly plenaries."
+          },
+          {
+            "type": "text",
+            "value": "Robin, whom <i>The Eye </i>granted anonymity and a pseudonym due to fear of retaliation, was another divestment researcher. They asked if one person opposing divestment would be grounds for the ACSRI to reject the proposal: “What if it’s one person with power? What if it’s the president? What if it’s someone on the board of trustees?”"
+          },
+          {
+            "type": "text",
+            "value": "CUAD <a href=\"https://www.columbiaspectator.com/opinion/2024/03/04/on-the-advisory-committee-on-socially-responsible-investings-shameful-divestment-decision/\">penned</a> a March 2024 op-ed in Spectator a few days after the rejection of its 2023 proposal, criticizing what it called the ACSRI’s “meaningless distinction” between majority and broad consensus. The University declined to comment when asked if the ACSRI uses specific, uniformly applied parameters to determine broad consensus."
+          },
+          {
+            "type": "text",
+            "value": "On March 3, 2024, CUAD proposed a student body referendum to the student councils of Columbia’s four undergraduate colleges, including a question asking students if the University should divest from Israel."
+          },
+          {
+            "type": "text",
+            "value": "Columbia College <a href=\"https://www.columbiaspectator.com/news/2024/04/22/columbia-college-overwhelmingly-passes-divestment-referendum/\">passed</a> the divestment referendum on April 22, 2024, with 2,013 students, or 40.26 percent of Columbia College, voting. Of participating students, 76.55 percent were in favor of divestment. Barnard <a href=\"https://www.columbiaspectator.com/news/2024/04/30/barnard-student-body-votes-for-divestment-from-israel-with-over-90-percent-in-favor-as-sga-releases-election-results/\">passed</a> the referendum with 90.99 percent of students in favor, and the School of Engineering and Applied Science <a href=\"https://www.columbiaspectator.com/news/2024/10/14/esc-survey-results-show-majority-support-for-divestment-from-israel/\">passed</a> with 74.52 percent in favor. The General Studies Student Council <a href=\"https://www.columbiaspectator.com/news/2024/05/06/gssc-votes-against-holding-referendum-on-divestment-from-israel/\">voted</a> against holding a referendum."
+          },
+          {
+            "type": "text",
+            "value": "In its op-ed criticizing the ACSRI’s decision, CUAD reiterated its “undeterred and steadfast” commitment to divestment."
+          },
+          {
+            "type": "text",
+            "value": "<b>Inside negotiations</b>"
+          },
+          {
+            "type": "text",
+            "value": "Less than two months after the ACSRI rejection, protesters pitched Columbia’s first “Gaza Solidarity Encampment” in the hours before Shafik <a href=\"https://www.columbiaspectator.com/news/2024/04/17/shafik-has-avoided-direct-confrontation-with-congress-for-four-months-now-she-will-finally-testify-before-a-committee-that-plans-to-hold-columbia-accountable/\">testified</a> before the House Committee on Education and the Workforce."
+          },
+          {
+            "type": "text",
+            "value": "The next day, Shafik <a href=\"https://www.columbiaspectator.com/news/2024/04/18/shafik-authorizes-nypd-to-sweep-gaza-solidarity-encampment-officers-in-riot-gear-arrest-over-100/\">authorized</a> the New York Police Department to sweep the encampment, leading to the arrest of 108 <a href=\"https://www.columbiaspectator.com/the-eye/2024/05/03/the-stakes-of-solidarity-what-low-income-students-risked-the-day-of-columbias-mass-arrests/\">protesters</a> on April 18. But a new contingent of protesters <a href=\"https://www.columbiaspectator.com/news/2024/04/19/gaza-solidarity-encampment-enters-third-day-following-mass-arrests/\">responded</a>, occupying the opposite lawn and eventually erecting an even larger encampment."
+          },
+          {
+            "type": "text",
+            "value": "As the student movement gained leverage, it began to engage with University officials on the issue of divestment directly, where before it had been constrained to following the ACSRI’s guidelines."
+          },
+          {
+            "type": "text",
+            "value": "“Of course, the first time around, they didn’t really do much of a negotiation,” Wasaya said regarding the University. “They just sent in the police officers.”"
+          },
+          {
+            "type": "text",
+            "value": "On the first full day of the second encampment, April 19, 2024, negotiations began at 10 a.m. in Room 407 of Low Library. Wasaya received a phone call that morning from a senate observer who asked him to join negotiations which had begun between students and administrators. He and other students in the senate’s student affairs committee were tasked to be third-party observers who would “keep the conversation moving forward and honest,” Wasaya said."
+          },
+          {
+            "type": "text",
+            "value": "Farah said that as a representative for the encampment and student protesters, they did not perceive any of the other parties in the negotiation room, including University senators, as “allies,” given their connection in one way or another to the institutional University bodies."
+          },
+          {
+            "type": "text",
+            "value": "During the discussions, Alonso and Kachani on behalf of the administration and Khalil and Farah on behalf of the protesters employed a “good cop, bad cop” dynamic, according to Wasaya and Farah. Farah recalled one moment where Kachani had “literally gotten off the table and yelled at me, like shaking his finger at me.”"
+          },
+          {
+            "type": "text",
+            "value": "D’Armiento wrote to <i>The Eye </i>that “both parties engaged in respectful and professional dialogue.” Alonso and Kachani did not respond to requests for comment when asked about the dynamics in the room. The University did not respond to requests for comment about Wasaya and Farah’s accounts."
+          },
+          {
+            "type": "text",
+            "value": "The sessions, in which the representatives of the administration and the encampment exchanged proposals and counterproposals, were long and exhausting—Wasaya called 10 hours of negotiating a “light day.” Just below the steps that lead up to the original negotiation room in Low, hundreds of protesters in the pro-Palestinian encampment waited each night for updates from Farah and Khalil, which Farah described as “nerve-wracking.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XV63VSQLJNH65AQN2YV7AYB3AQ.jpg",
+              "caption": "As negotiations occurred between protesters and the administration, the encampment stayed active on South Lawn.",
+              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/stella-ragas/\">Stella Ragas</a>"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Beyond the locked Columbia gates, the whole world was watching: More than 100 pro-Palestinian encampments sprang up around the world as some Palestinians in Gaza <a href=\"https://www.instagram.com/p/C6OsxlbsSjD/?hl=en\">vocalized</a> their support for the student movement and emphasized worsening conditions in Gaza. According to reports from <a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02678-3/fulltext\">The Lancet</a> and <a href=\"https://www.theguardian.com/world/2024/apr/20/gaza-death-toll-passes-34000-israel-iran\">The Guardian</a>, by April 30, 2024, Israeli military operations in Gaza had caused over 30,000 Palestinian deaths due to traumatic injury."
+          },
+          {
+            "type": "text",
+            "value": "Wasaya said the encampment negotiators explained to those in the room their role as representatives: They brought offers agreed upon in the room to be voted on in the encampment. The negotiators would add their “honest opinion” of what had happened in negotiations and the value of the offered deals. A “key constituency” of Palestinian students, one of many committees within the encampment, held “veto rights,” Wasaya wrote in a statement to <i>The Eye</i>."
+          },
+          {
+            "type": "text",
+            "value": "The administrators representing the University were Kachani and Alonso, who reported to and worked with Journalism School Dean Jelani Cobb and Columbia College Dean Josef Sorett, according to sources in the room. Adina Berrios Brooks, CC ’98, the chief of staff to Provost Angela Olinto, wrote to Shafik on April 25, 2024, at 9 a.m. that Sorett and Cobb “have incorporated feedback from Trustees in the attached document” which would be the “menu that informs conversations with the protesters.” The email was subpoenaed and published in the House report."
+          },
+          {
+            "type": "text",
+            "value": "D’Armiento clarified the line of communication between Kachani and Alonso, the administrators in the room, and Cobb and Sorett, whom Olinto had reportedly tasked with leading negotiations with protesters, according to records published in the House report."
+          },
+          {
+            "type": "text",
+            "value": "Administrators “would convey the information to Deans Cobb and Sorett who would then relay to President Minouche, her Cabinet, and the University Trustees,” D’Armiento wrote in a statement to <i>The Eye</i>. “These sessions were also an opportunity for representatives of the Administration to read verbatim the written responses they received from University leadership.”"
+          },
+          {
+            "type": "text",
+            "value": "Kachani and Alonso told those in the room that they were responding to pressure from various external authorities, including the University president, the trustees, administrators and deans, and members of the U.S. government, many of whom were trying to “derail the negotiations,” Wasaya told <i>The Eye</i>."
+          },
+          {
+            "type": "text",
+            "value": "But when Kachani and Alonso left the room during conversations, they did not tell senate observers and encampment negotiators with whom they were consulting, nor that they were speaking to Sorett and Cobb about negotiations in general, according to both Wasaya and D’Armiento."
+          },
+          {
+            "type": "text",
+            "value": "Those in the room “did not know who they were reporting to but were aware that they were not the decision makers,” D’Armiento wrote. Senate observers in the room “often stated that it would be best if the people who they were communicating with sat in the room,” D’Armiento added."
+          },
+          {
+            "type": "text",
+            "value": "Wasaya likewise commented on the alleged lack of transparency from Kachani and Alonso, writing to <i>The Eye </i>that Kachani and Alonso told those in the room they were working with a group of unnamed deans reporting to Shafik and the trustees, who had the ultimate decision-making power. “Any revisions offered in the room were things they’d been authorized to offer from the higher-ups,” Wasaya said. “Anything outside that, they’d check with their bosses and come back with the answer.”"
+          },
+          {
+            "type": "text",
+            "value": "In a statement to <i>The Eye</i>, a University official denied allegations that Cobb and Sorett’s identities were kept secret. Senate observers learned that Olinto tasked Sorett and Cobb to be the official negotiators only when the House Committee on Education and the Workforce published its October 31, 2024, <a href=\"https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf\">report</a>—six months after negotiations and the encampments ended, D’Armiento wrote in a statement to <i>The Eye</i>."
+          },
+          {
+            "type": "text",
+            "value": "Cobb, Sorett, Kachani, and Alonso did not provide comment despite numerous requests."
+          },
+          {
+            "type": "text",
+            "value": "This “layered structure” made sense, Wasaya noted, because the University “would want to keep the president and board distanced from the negotiations.”"
+          },
+          {
+            "type": "text",
+            "value": "In a statement to <i>The Eye</i>, a Columbia spokesperson wrote that these conversations “were not formal, recognized negotiations.”"
+          },
+          {
+            "type": "text",
+            "value": "“The University had separate formal negotiations and formal negotiators, facts that were widely reported at the time, and publicly communicated about with the community,” the statement read. The University did not respond when asked to elaborate on the relationship between the “separate formal negotiations” and the discussions in the room."
+          },
+          {
+            "type": "text",
+            "value": "The Office of Public Affairs and Shafik provided updates throughout the negotiations about a “dialogue” between a group of administrators, faculty, University senators, and student organizers to “discuss the basis for dismantling the encampment.”"
+          },
+          {
+            "type": "text",
+            "value": "“We have our demands; they have theirs,” Ben Chang, then-vice president of communications, wrote in a press briefing on April 26, echoing Shafik with hope that the discussions would be successful."
+          },
+          {
+            "type": "text",
+            "value": "The University Senate’s March 31 <a href=\"https://senate.columbia.edu/sites/senate.columbia.edu/files/content/Reports_2024-25/The%20Sundial%20Report_3.31.2025.FINAL_.pdf\">Sundial Report</a> labels the conversations as negotiations. Four people involved in the discussions, including Wasaya and Farah, told <i>The Eye</i> that Khalil and Farah were negotiators, calling the conversations “negotiations.”"
+          },
+          {
+            "type": "text",
+            "value": "Four individuals familiar with the University’s negotiation process, including Wasaya, Farah, and a member of Student Workers of Columbia-United Auto Workers, spoke to <i>The Eye </i>about how Kachani and Alonso have been negotiators on the University’s behalf, both during encampment conversations and in SWC-UAW bargaining sessions. They spoke to how Kachani works to build personal trust with student negotiators and observers."
+          },
+          {
+            "type": "text",
+            "value": "“I think he tries to make you seem like you’re friends, to the extent that you can,” Farah said. “But then, when he realizes he’s not getting what he wants, he turns mean.”"
+          },
+          {
+            "type": "text",
+            "value": "Wasaya said Kachani tried to connect with him outside the negotiation room, urging him to encourage student negotiators to take a set of deals proposed by the University. “I don’t think it really worked in building trust,” Wasaya said."
+          },
+          {
+            "type": "text",
+            "value": "Kachani and Alonso did not provide comment on these reported interactions in and outside the negotiation room."
+          },
+          {
+            "type": "text",
+            "value": "The closed negotiation room remained a black box to those on the outside, while those within navigated their own lack of clarity about the full picture. Farah, Wasaya, D’Armiento, and the senate’s <a href=\"https://senate.columbia.edu/sites/senate.columbia.edu/files/content/Reports_2024-25/The%20Sundial%20Report_3.31.2025.FINAL_.pdf\">Sundial Report</a> pointed to alleged instances of secrecy, surveillance, and misinformation from the University administration that led to a breakdown of trust over the course of the negotiations."
+          },
+          {
+            "type": "text",
+            "value": "Three days into negotiations, on April 23, Shafik publicly <a href=\"https://www.columbiaspectator.com/news/2024/04/23/shafik-announces-midnight-deadline-for-ongoing-encampment-negotiations-before-consideration-of-alternative-options/\">announced</a> a midnight deadline to “reach agreement” before the consideration of “alternative options for clearing the West Lawn and restoring calm to campus so that students can complete the term and graduate.” According to the Sundial Report, multiple “rumors” circulated that Mayor Eric Adams or Gov. Kathy Hochul were placing a midnight deadline on the University, otherwise the National Guard or NYPD would be called in. While helicopters circled above the encampment and protesters started preparing for arrests, those in the negotiation room told <i>The Eye </i>that the uncertainty stressed the discussions."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Y3CUJS7765CRZIPIHGEOPRTIEE.jpeg",
+              "caption": "Hundreds of protesters gathering around the encampment as rumors that the National Guard may come onto campus circulated.",
+              "credit": "Staff Photographer"
+            }
+          },
+          {
+            "type": "text",
+            "value": "When Kachani and Alonso were asked by the encampment negotiators to confirm law enforcement would not be called onto campus, they left the room to call “the rest of the senior administration team.” When they came back, they could not confirm or deny to those in the room that the National Guard or NYPD would come onto campus between then and the night of April 24, as is <a href=\"https://senate.columbia.edu/sites/senate.columbia.edu/files/content/Reports_2024-25/The%20Sundial%20Report_3.31.2025.FINAL_.pdf\">confirmed</a> by attestations in the Sundial Report."
+          },
+          {
+            "type": "text",
+            "value": "Khalil explained in the 2025 documentary <i>The Encampments</i>, released in March by Watermelon Pictures, that after calling congresspeople and the governor, he realized that it was an “empty threat” and the governor’s office had no plans of sending in the National Guard."
+          },
+          {
+            "type": "text",
+            "value": "The University did not provide comment on the National Guard incident. On April 24, 2024, a University spokesperson <a href=\"https://www.columbiaspectator.com/news/2024/04/24/claims-of-calling-national-guard-are-untrue-and-unsubstantiated-university-spokesperson-says/\">said</a> at a press briefing that the claim by protesters that the University had threatened to bring in the National Guard was “untrue and unsubstantiated.”"
+          },
+          {
+            "type": "text",
+            "value": "Closed door negotiations meant that when Khalil and Farah’s experiences clashed with the University’s claims, the public had no way of confirming what happened in the negotiation room. Farah said that at one point, they asked for “public meetings,” which CUAD’s April 28, 2024, Substack also <a href=\"https://cuapartheiddivest.substack.com/p/gaza-solidarity-encampment-negotiations\">indicated</a>, but it was a “moot point.”"
+          },
+          {
+            "type": "text",
+            "value": "Then, negotiations entered a phase of more substantive offers."
+          },
+          {
+            "type": "text",
+            "value": "In <i>The Encampments</i>, Khalil said that “after the fourth day, they were just so silent,” referencing the University’s reaction to the growing number of pro-Palestinian encampments across the world. “Clearly it is a global movement,” he said."
+          },
+          {
+            "type": "text",
+            "value": "The House report on antisemitism states that “Columbia’s leaders were willing to make significant – and troubling – concessions to the encampment.” Student negotiators and protesters’ ultimate goal was divestment from Israel, according to Wasaya, but in the negotiation room, “they said pretty clearly that we’re not under the illusion that this is actually going to happen. Let us put forward a proposal that the University can actually consider realistically.”"
+          },
+          {
+            "type": "text",
+            "value": "Therefore, the slate of divestment proposals related to arms and human rights violations mostly stayed the same while negotiations involved “pushing back and forth on the minutiae,” according to Farah."
+          },
+          {
+            "type": "text",
+            "value": "The University’s April 25, 2024, offer included a provision for the Office of the Executive Vice President for Finance to establish a process whereby students could access a list of direct University holdings which would be “made available biannually on a one-month lag,” responding to CUAD’s demand for financial transparency <a href=\"https://www.columbiaspectator.com/news/2024/11/22/the-house-committees-report-on-antisemitism-annotated/\">published</a> by the Congressional committee."
+          },
+          {
+            "type": "text",
+            "value": "CUAD’s April 27, 2024, counteroffer explained that they wanted a list of Columbia’s direct and indirect holdings, such as mutual funds and private equity funds under the same program, because the University’s direct holdings make up a small percentage of its total investments."
+          },
+          {
+            "type": "text",
+            "value": "Farah and Khalil insisted that the University provide confirmation that the ACSRI or the trustees would approve these proposals, but the administrators had told those in the room they were not empowered to make those promises."
+          },
+          {
+            "type": "text",
+            "value": "Instead, in the University’s offer, the divestment proposals would be written by student protesters, along with help from someone well-connected within the ACSRI and the University. Student negotiators tapped the research group that had worked on the 2023 ACSRI proposal, including Sage, to start drafting proposals that matched the University’s offer."
+          },
+          {
+            "type": "text",
+            "value": "The ACSRI would then review and vote on the proposal within three months, as opposed to waiting until spring 2025. If any of the three proposals were approved, a subcommittee within the board of trustees would review the proposal and then decide whether or not to hold a boardwide vote."
+          },
+          {
+            "type": "text",
+            "value": "<b>No trust, no transparency, no deal</b>"
+          },
+          {
+            "type": "text",
+            "value": "Continuous threats of outsiders attempting to surveil or influence negotiations further splintered trust between all three parties. A man dressed as a janitor would change the trash in the negotiation room frequently, even when the trash was empty. Wasaya said he had been in that Low room several times before negotiations began and had never seen a janitor come in once, let alone multiple times a day, as this man did."
+          },
+          {
+            "type": "text",
+            "value": "When a student senator ran into him in the basement of Low, “They felt like, ‘Yo, is this guy following us?’” Wasaya recalled."
+          },
+          {
+            "type": "text",
+            "value": "On the night of April 23, 2024, Wasaya said that Kachani and Alonso told those in the negotiation room that they had found out the janitor was hired by the University earlier in the semester as part of a contract with private security companies. The Sundial Report states that all members in the room “were shaken by these events.”"
+          },
+          {
+            "type": "text",
+            "value": "Negotiations then moved to Butler as a cautionary measure."
+          },
+          {
+            "type": "text",
+            "value": "Another man in a suit followed various parties involved in negotiations, according to four sources in the room. The Sundial Report notes that on April 27, 2024, “when asked, the individual would not produce CUID” and Public Safety and Chief Operating Officer Cas Holloway stated that the individual was from a security firm."
+          },
+          {
+            "type": "text",
+            "value": "A University spokesperson did not respond to requests for comment about reports of surveillance."
+          },
+          {
+            "type": "text",
+            "value": "“They had a full-on confrontation where [D’Armiento] was like, ‘Who hired you? Who hired you?’” Farah said. D’Armiento confirmed this incident to <i>The Eye. </i>In a written statement, she said that it added “significant stress” and contributed to a “breakdown of trust” between protesters and the administration."
+          },
+          {
+            "type": "text",
+            "value": "Kachani and Alonso did not respond to requests for comment about the level of knowledge they had about the janitor or the suited man."
+          },
+          {
+            "type": "text",
+            "value": "“Everyone was kind of wary. … People are listening to what’s going on here and trying to influence it from the outside,” Wasaya said. “They’re trying to get people in trouble. Some folks did not feel safe at all, neither the students nor the University administration folks.” At times, University negotiators turned on white noise in the background to prevent eavesdropping, Farah and senate observers said."
+          },
+          {
+            "type": "text",
+            "value": "On May 16, 2024, the Washington Post <a href=\"https://www.washingtonpost.com/nation/2024/05/16/business-leaders-chat-group-eric-adams-columbia-protesters/\">published</a> an article about a WhatsApp group chat with billionaires and business executives “working to shape U.S. public opinion of the war in Gaza.” This group pressured Mayor Adams on an April 26, 2024, Zoom call to send in NYPD officers to end the second encampment and brainstormed how to pressure Shafik and the trustees to permit the NYPD on campus. “Some members also offered to pay for private investigators to assist New York police in handling the protests,” the Post reported."
+          },
+          {
+            "type": "text",
+            "value": "On April 28, negotiations ended. According to the Sundial Report, encampment negotiators said that negotiations were the “only viable path,” but “until the negotiation circumstances are changed, I am afraid we will not be back at the table.”"
+          },
+          {
+            "type": "text",
+            "value": "Wasaya wrote in a statement to <i>The Eye</i> that the end of negotiations had a marked shift in tone that was disproportionately threatening, even though “the encampment folks didn’t really do anything to warrant this change in attitude/tone.” Wasaya argued that the encampment was largely peaceful, agreed to most or all of the University’s logistical demands, and asked external protesters to leave per the University’s request."
+          },
+          {
+            "type": "text",
+            "value": "Alongside the accusations of surveillance, the application of pressure—from those inside the room and outside—created a “recipe for no deal to be made,” Wasaya wrote."
+          },
+          {
+            "type": "text",
+            "value": "Farah called the University’s final offer on April 27, 2024, “egregious” in its significant reduction of concessions compared to those made on April 25, 2024."
+          },
+          {
+            "type": "text",
+            "value": "“I truly thought we were getting somewhere where we could sign on something that was somewhat reasonable versus the very, very last offer that we refused,” Farah said."
+          },
+          {
+            "type": "text",
+            "value": "About 30 minutes past midnight on April 30, 2024, dozens of protesters took “autonomous action” and occupied Hamilton Hall, renaming it “Hind’s Hall” in honor of Hind Rajab, a six-year-old Palestinian girl killed by the Israeli military in Gaza in January 2024. In CUAD’s April 30, 2024, <a href=\"https://cuapartheiddivest.substack.com/p/students-and-community-members-claim\">Substack post</a>, CUAD cited Shafik’s April 29, 2024, statement, which reaffirmed that the University would not divest from Israel, as a reason for the occupation."
+          },
+          {
+            "type": "text",
+            "value": "The post reads, “Why did the university refuse to listen to student consensus for divestment in the recent referendums or to read the divestment proposal submitted to ACSRI in December?”"
+          },
+          {
+            "type": "text",
+            "value": "CUAD’s post referenced the occupation of Hamilton Hall as an escalation tactic in past student movements. In 1985, seven members of the student organization Coalition for a Free South Africa began a hunger strike in support of divestment from South African apartheid. Spectator <a href=\"https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850422-01.2.13&srpos=1&e=-------en-20--1--txt-txIN-%22keep+on+fasting%22------\">reported</a> that seven days later, when a hunger striker requested a meeting with a trustee, the trustee responded that the protesters should “keep on fasting.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6CHDH6QXCNCK7OONIXPH4G2MFY.jpg",
+              "caption": "The 1985 blockade protesting against South African apartheid had hundreds stationed outside Hamilton Hall.",
+              "credit": "Samantha McCormick"
+            }
+          },
+          {
+            "type": "text",
+            "value": "On April 4, 1985, three days later, several hundred student protesters enacted a three-week blockade of Hamilton Hall, sitting in front of the chained entrance and renaming the building “Mandela Hall.” The blockade ended with a march to Harlem and the threat of continued action. A panel composed of six trustees was immediately formed to consider divestment. A flyer from the Coalition for a Free South Africa explained that they chose a blockade because it was the “last avenue of public expression available when all other access to those who make the decisions on investments -- the Trustees -- have been closed to us.”"
+          },
+          {
+            "type": "text",
+            "value": "The trustees <a href=\"https://spectatorarchive.library.columbia.edu/?a=d&d=cs19851008-01.2.2&e=-------en-20--1--txt-txIN-------\">voted </a>for divestment six months later, on October 7, 1985, agreeing to sell Columbia’s $41 million worth of South Africa-related stock within two years. Columbia was the first major private university to announce full divestment from South Africa. The ACSRI did not yet exist."
+          },
+          {
+            "type": "text",
+            "value": "Despite the occupation of Hamilton Hall in 2024, the University did not provide an updated offer to the protesters. Wasaya said he attended a Zoom call on April 30, 2024, at the administration’s request, with both negotiating parties in attendance. The Sundial Report states that at around 6:27 p.m., Sorett, in a Zoom call with senate observers, presented the encampment negotiators with “the final offer that had been presented April 27, 2024 and demanded a swift response.”"
+          },
+          {
+            "type": "text",
+            "value": "Less than two hours later, encampment negotiators contacted senate observers confirming that they “would not take the Administrations’ offer,” according to the Sundial Report. Protesters inside Hamilton <a href=\"https://www.columbiaspectator.com/news/2025/04/07/university-senate-report-finds-university-actions-over-past-year-eroded-shared-governance-academic-freedom/\">reportedly</a> contacted encampment negotiators to request that they be allowed to leave without police involvement, as Wasaya also confirmed."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ITZM4REHNVFQ7NJFWQ7NARJJTM.jpg",
+              "caption": "Police entered Columbia's campus after Shafik authorized the NYPD to arrest those inside Hamilton Hall.",
+              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/gabriella-gregor-splaver/\">Gabriella Gregor Splaver </a>"
+            }
+          },
+          {
+            "type": "text",
+            "value": "A stream of NYPD officers in riot gear began entering through the windows of Hamilton at around 9:30 p.m., and arrested the 46 protesters inside."
+          },
+          {
+            "type": "text",
+            "value": "<b>Part Two</b>"
+          },
+          {
+            "type": "text",
+            "value": "<b>New era of proposals, escalations, and arrests</b>"
+          },
+          {
+            "type": "text",
+            "value": "On December 1, 2024, eight months after the NYPD swept Hamilton Hall and the encampment, a group of professors, alumni, and students, all of whom had varying roles in activism on campus, submitted three proposals to the ACSRI. One targeted worldwide human rights violations, one was specific to Israel, and one proposed shareholder engagement."
+          },
+          {
+            "type": "text",
+            "value": "Robin, an author of the 2024 proposal, said they used several sources to construct this round of proposals, including the previously rejected CUAD proposal; Columbia’s direct holdings list of publicly traded securities; real-time and historical financial data provided by the Bloomberg Terminals in the Business and Economics Library; and public tax returns."
+          },
+          {
+            "type": "text",
+            "value": "The point of writing three proposals instead of one was to “give ACSRI some options and engage in good faith” and offer “different framings for divestment,” Robin said."
+          },
+          {
+            "type": "text",
+            "value": "During negotiations in April 2024, according to the Sundial Report, the administration tapped a Business School professor to “explain the complexities of divestment to the protesters.” Robin admitted that Columbia’s indirect investments mean that “it’s not immediately obvious how to operationalize divestment.”"
+          },
+          {
+            "type": "text",
+            "value": "“Even if there’s details that are hard to figure out, you can do the easy stuff, and the easy stuff is to sell the very obviously complicit companies that everyone knows they hold,” Robin added."
+          },
+          {
+            "type": "text",
+            "value": "<i>The Eye </i>annotated all three proposals, highlighting key arguments."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "acsri3.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "acsri4.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "acsri5.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "As of July 14, the ACSRI has not publicly released its responses to the three 2024 proposals. The proposals have been discussed in meetings this year, and members of the ACSRI split into three subcommittees to discuss each of the three proposals."
+          },
+          {
+            "type": "text",
+            "value": "Meeting minutes for their final April 30 meeting will be confirmed in September 2025, according to the ACSRI website, which would be an unprecedented delay in publishing a decision. The website states final decisions are typically made by April 15."
+          },
+          {
+            "type": "text",
+            "value": "“The ACSRI makes the best efforts to adhere to this schedule but reserves the right to take longer if the proposal requires additional time for review,” the website reads. “If the proposal does not meet the above guidelines, the process will be slowed down.”"
+          },
+          {
+            "type": "text",
+            "value": "A University official declined to comment on why decisions for the proposal have yet to be released."
+          },
+          {
+            "type": "text",
+            "value": "“I don’t think another round of ACSRI is worth it,” Robin said."
+          },
+          {
+            "type": "text",
+            "value": "In the pre-pandemic iteration of CUAD, members <a href=\"https://www.columbiaspectator.com/news/2018/04/20/referendum-result-marks-shift-on-campus-for-supporters-others-question-validity-of-results/\">tried</a> to work with the student government through referendums instead of focusing their efforts on the ACSRI. In 2020, Bollinger publicly denounced, both before and after voting, a referendum proposed by CUAD in which the Columbia College student body voted to recommend divestment from companies supporting or profiting from “Israeli policy toward the Palestinian people.”"
+          },
+          {
+            "type": "text",
+            "value": "After the referendum passed, Bollinger wrote that matters of investment are not decided by referendum but by the ACSRI."
+          },
+          {
+            "type": "text",
+            "value": "Speaking to <i>The Eye</i> on May 1, Farah felt that rallying around divestment at Columbia was “still important.”"
+          },
+          {
+            "type": "text",
+            "value": "“It unites so much of the student body and it’s such a honestly reasonable request,” Farah said. “But most definitely that it’s just the tip of the iceberg,” referencing other demands such as the closure of the Tel Aviv Global Center."
+          },
+          {
+            "type": "text",
+            "value": "<b>‘We had to call the police’: Shipman’s hard line</b>"
+          },
+          {
+            "type": "text",
+            "value": "Protests since the 2024 encampments have yet to reach a scale that commands leverage comparable to that of student negotiators on April 25, 2024. At the same time, protesters now face an administration increasingly unwilling to negotiate. On May 7, around 100 protesters “flooded” the Lawrence A. Wien Reading Room in Butler Library. CUAD—which has <a href=\"https://www.columbiaspectator.com/opinion/2024/10/19/recentering-palestine-reclaiming-the-movement/\">fractured</a> since the encampments—posted on <a href=\"https://cuapartheiddivest.substack.com/p/flood-butler-now-disruption-until\">Substack</a> about the demonstration, its title in all caps: “[FLOOD BUTLER NOW] DISRUPTION UNTIL DIVESTMENT.”"
+          },
+          {
+            "type": "text",
+            "value": "Shipman, who served as co-chair of the board of trustees before <a href=\"https://www.columbiaspectator.com/news/2025/03/28/armstrong-steps-down-as-interim-columbia-president-shipman-to-assumes-presidency/\">replacing</a> interim University President Katrina Armstrong as acting University president on March 28, <a href=\"https://www.columbiaspectator.com/news/2025/05/07/shipman-authorizes-nypd-to-assist-in-securing-butler-library-as-pro-palestinian-protest-continues/\">authorized</a> the NYPD to arrest protesters while Public Safety officers were instructed to prevent protesters from leaving until they presented a Columbia ID."
+          },
+          {
+            "type": "text",
+            "value": "In a puzzling sequence of events during the May 7 protest, Shipman called a Barnard student’s personal cell number at 7:11 p.m., around six minutes after the NYPD entered Butler. Sam Rosen, BC ’25, said she had “no idea” why she in particular was called. Although Rosen is involved in campus pro-Palestinian organizing, she was unaffiliated with the demonstrators inside the main reading room and outside the entrance to Butler, Rosen said."
+          },
+          {
+            "type": "text",
+            "value": "The Butler demonstration marked the first demonstration inside a University building since Khalil’s arrest on March 8. In previous demonstrations, Khalil, who has prior <a href=\"https://www.theguardian.com/us-news/2025/mar/13/mahmoud-khalil-columbia-british-government-work\">diplomacy experience</a>, typically acted as a liaison between protesters and administration, including a <a href=\"https://www.columbiaspectator.com/news/2025/03/05/pro-palestinian-protesters-stage-sit-in-in-milstein-lobby/\">sit-in</a> at the Milstein Center for Teaching and Learning on March 5. During the protest, Khalil projected a call from Rosenbury to protesters."
+          },
+          {
+            "type": "text",
+            "value": "Khalil’s public-facing role from 2024 to 2025 had made him a familiar figure to numerous administrators. Nonetheless, Khalil said in an April 4 Spectator <a href=\"https://www.columbiaspectator.com/opinion/2025/04/04/a-letter-to-columbia/\">op-ed</a> <a href=\"https://www.columbiaspectator.com/opinion/2025/04/04/a-letter-to-columbia/\">dictated</a> while in ICE detention that Columbia “laid the groundwork for my abduction.”"
+          },
+          {
+            "type": "text",
+            "value": "“Last year, Columbia turned over student disciplinary records to Congress and created the<a href=\"https://www.columbiaspectator.com/news/2025/04/01/columbias-response-to-the-trump-administrations-demands-explained/#:~:text=The%20Task%20Force,applied%20to%20Israel.%E2%80%9D\"> Task Force on Antisemitism</a> that broadly categorized anti-Israel sentiment as hate speech to condemn protests,” the op-ed reads."
+          },
+          {
+            "type": "text",
+            "value": "On May 7, Khalil was more than 1,000 miles away in an ICE detention facility. Meanwhile, at the Butler demonstration, Rosen’s direct contact with Shipman was unplanned and unknown to protesters inside Butler. She described reaching out to the demonstrators as a “bit of a scramble.”"
+          },
+          {
+            "type": "text",
+            "value": "Eventually, Rosen said she contacted some in the room and asked if they were “comfortable” with Rosen talking to the administration, to which multiple protesters said yes."
+          },
+          {
+            "type": "text",
+            "value": "Joseph Howley, associate professor of classics, acting as a mediator and communication facilitator, connected Shipman to Rosen because he felt that she “would do a better job than I could of helping Claire understand how the student demonstrators were experiencing that situation and how to best communicate with them,” according to a May 18 statement he wrote to <i>The Eye</i>."
+          },
+          {
+            "type": "text",
+            "value": "“Leadership’s inability or unwillingness to understand and communicate clearly with demonstrators has been a chronic problem in the last two years,” Howley wrote."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KXT5TLMB3BG3ZD6NVQRYTKZLCA.jpeg",
+              "caption": "Shipman standing near the steps of Low Library during the May 7, 2025, Butler Library demonstration.",
+              "credit": "Claire Burke"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“[Professor Howley] was like, the 202 number is Claire,” Rosen said. “And she called me.”"
+          },
+          {
+            "type": "text",
+            "value": "A Columbia spokesperson wrote in a statement that Shipman “regularly engages with members of the Columbia community, including students, faculty, and staff, to hear directly about their experiences and perspectives as she works to move the University forward.”"
+          },
+          {
+            "type": "text",
+            "value": "During the call, Rosen offered to meet Shipman with three other students, unmasked, and provide their full names and CUIDs."
+          },
+          {
+            "type": "text",
+            "value": "“She said that wasn’t possible because she was inside Butler,” Rosen said. “I then asked if we would be able to be escorted to her. She said that was not possible.”"
+          },
+          {
+            "type": "text",
+            "value": "Rosen described Shipman’s voice as “really shaken, and a little bit out of it.” In the partial recording <i>The Eye </i>obtained, Rosen identified herself as a “concerned student who is here on the outside.”"
+          },
+          {
+            "type": "text",
+            "value": "Shipman explained that around 20 protesters identified themselves. “There’s a remaining group that don’t want to leave and probably will be arrested,” Shipman said. “But I don’t know how they got into the library without identification.”"
+          },
+          {
+            "type": "text",
+            "value": "Rosen later asked Shipman if it would “be possible to press pause” on the NYPD entering the building."
+          },
+          {
+            "type": "text",
+            "value": "“No,” Shipman said. “Once our Public Safety officers were injured and people forced their way into Butler Library, we had to call the police.” In a statement <a href=\"https://communications.news.columbia.edu/news/update-butler-library-disruption-statement-acting-president-claire-shipman\">published</a> during the protest, Shipman wrote that two Public Safety officers sustained injuries when protesters “attempted to force their way into the building and into Room 301.” She added in the phone call with Rosen that the administration had sent delegates, including professors, into the room. Spectator <a href=\"https://www.youtube.com/watch?v=VVpTHzlUaCs\">published</a> footage that showed Public Safety officers shoving and forcing multiple protesters to the ground."
+          },
+          {
+            "type": "text",
+            "value": "Rosen told <i>The Eye</i> it “made no sense” that Shipman called her after she had already authorized the NYPD to sweep the building."
+          },
+          {
+            "type": "text",
+            "value": "<b>Where the movement stands today</b>"
+          },
+          {
+            "type": "text",
+            "value": "The ACSRI rejections throughout the past 25 years, the virtually nonexistent negotiation conditions of today, and the recent collapse of trust in the University—from student protesters and <a href=\"https://www.columbiaspectator.com/news/2025/04/23/shared-governance-is-under-threat-student-senators-release-statement-scrutinizing-shipmans-impending-review-of-university-senate/\">beyond</a>—has cast a shadow of doubt on the viability of the divestment movement at Columbia."
+          },
+          {
+            "type": "text",
+            "value": "Student protests throughout history argue that divestment sits at the heart of a paradox in higher education: A university, which pursues parallel and sometimes contrary goals of producing knowledge and revenue, has the power to teach one vision about how to approach the world and invest in another. Khalil posed the question another way in <i>The Encampments</i>."
+          },
+          {
+            "type": "text",
+            "value": "“What University in the world wants to invest in weapon manufacturers?” Khalil asked. “Why would you do that? You’re concerned with education. We are literally giving you back the University to be a moral university.”"
+          },
+          {
+            "type": "text",
+            "value": "While the University community waits to see if the ACSRI will recommend any of the December 2024 proposals to move forward to the trustees, Jeh Johnson, Law ’82, has <a href=\"https://www.columbiaspectator.com/news/2025/05/05/jeh-johnson-law-82-elected-co-chair-of-columbias-board-of-trustees/\">assumed</a> Shipman’s role as co-chair of the board. Johnson, a former director of the defense company Lockheed Martin, is a longstanding <a href=\"https://www.columbiaspectator.com/opinion/2024/03/04/on-the-advisory-committee-on-socially-responsible-investings-shameful-divestment-decision/\">target</a> of CUAD’s ire."
+          },
+          {
+            "type": "text",
+            "value": "Wasaya, reflecting on the encampment negotiations a year later, said he’s since changed his mind about student negotiators rejecting the University’s final offers. At the time, he thought it was the “best deal they were going to get.” But after witnessing how the deals made between universities and other encampments later <a href=\"https://dailynorthwestern.com/2024/05/02/campus/a-door-of-communication-was-opened-amid-divides-encampment-agreement-brings-tensions-down-on-campus/\">failed</a> to produce tangible results, Wasaya realized that if the administration felt that if it bought enough time, “this whole thing will blow over.”"
+          },
+          {
+            "type": "text",
+            "value": "“So I personally felt like they should have taken the deal at the time,” Wasaya said. “But in hindsight, I think they kind of made the right choice.”"
+          },
+          {
+            "type": "text",
+            "value": "He pointed to the outcome at Brown University as an example. In April 2024, Brown’s pro-Palestinian encampment disbanded after an <a href=\"https://www.browndailyherald.com/article/2024/04/live-updates-students-hold-encampment-for-divestment-on-main-green\">agreement</a> was reached with the university for its corporation to vote on a divestment proposal. Six months later, Brown’s board <a href=\"https://www.browndailyherald.com/article/2024/10/divestment-voted-down-by-brown-university-corporation\">voted to reject </a>divestment from “companies with Israeli military ties.”"
+          },
+          {
+            "type": "text",
+            "value": "Still, all parties with whom <i>The Eye</i> spoke felt that even this offer, despite its nonbinding nature and distance from the protesters’ demands, would never be offered in today’s climate."
+          },
+          {
+            "type": "text",
+            "value": "“In my heart, sadly, I do feel that last year, there was an opportunity to sign on to something that doesn’t exist now,” Farah said."
+          },
+          {
+            "type": "text",
+            "value": "They stand by the assertion that the University’s offers were “bad deals.”"
+          },
+          {
+            "type": "text",
+            "value": "Meanwhile, the University’s new policies related to <a href=\"https://www.columbiaspectator.com/news/2024/02/19/columbia-establishes-demonstration-areas-and-times-alters-disciplinary-procedure-for-students-in-violation-of-new-event-policy/\">regulating</a> protest and political speech have raised the stakes for participation in a wide range of pro-Palestinian protest activity. President Donald Trump’s administration <a href=\"https://www.columbiaspectator.com/news/2025/03/14/trump-administration-issues-list-of-demands-columbia-must-meet-to-maintain-federal-funding/\">demanded</a> on March 13 that Columbia overhaul protest and security policies, including <a href=\"https://www.columbiaspectator.com/news/2025/05/05/columbia-deploys-25-special-patrol-officers-on-campus/\">rolling out</a> special patrol officers with the ability to <a href=\"https://www.columbiaspectator.com/news/2025/05/08/nypd-confirms-78-arrests-at-butler-library-protest-all-released-from-custody/\">detain</a> individuals on campus."
+          },
+          {
+            "type": "text",
+            "value": "On July 7, a <a href=\"https://www.kasowitz.com/media/client-news/kasowitz-and-barnard-announce-settlement-of-lawsuit/\">news release</a> from a law firm representing a group of Jewish students suing Columbia and Barnard announced that Barnard had agreed in a legal settlement to a series of policy changes and additions to “address antisemitism on its campus.” As part of the settlement, Barnard committed to not negotiate with CUAD, any of its “successor or spin-off organizations,” or anyone acting as an authorized representative of CUAD."
+          },
+          {
+            "type": "text",
+            "value": "Columbia announced a similar commitment just over a week later. In a Tuesday email to the Columbia community, Shipman wrote that Columbia “has not, and will not, recognize or meet with the group that calls itself ‘Columbia University Apartheid Divest’ (CUAD), its representatives, or any of its affiliated organizations.” The students’ lawsuit against Columbia is still ongoing."
+          },
+          {
+            "type": "text",
+            "value": "In April 2024, Khalil stood a few feet from Butler’s entrance, representing the encampment to a throng of press. Khalil remained in ICE detention in Jena, Louisiana, for 102 days, far from his home and <a href=\"https://www.columbiaspectator.com/news/2025/04/21/mahmoud-khalil-sipa-24-denied-temporary-release-for-sons-birth/\">family</a> in New York City. Khalil was released on bail on June 20 on the <a href=\"https://www.columbiaspectator.com/news/2025/06/20/federal-judge-orders-mahmoud-khalil-sipa-24-be-released-on-bail/\">orders</a> of a federal judge. Despite being home with his family, his battle to remain in the United States continues."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SFEVAVB2FZF3JFIYBTRDHS4MBY.jpg",
+              "caption": "Khalil speaking to the press during the April 2024 encampments.",
+              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/heather-chen/\">Heather Chen</a>"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“This movement has always been grassroots,” Khalil <a href=\"https://www.columbiaspectator.com/opinion/2025/04/04/a-letter-to-columbia/\">dictated</a> in his April 4 op-ed. “It was led by students—many younger than me—who risked their careers, their degrees, and their futures to demand divestment.”"
+          },
+          {
+            "type": "text",
+            "value": "With their voices echoing off of the façade of Butler, a new iteration of the pro-Palestinian student movement picked up the call for divestment once more in May. As the NYPD entered Butler, Rosen asked Shipman if she would speak with the protesters inside."
+          },
+          {
+            "type": "text",
+            "value": "“Would there be any possibility of meeting them at a negotiating table?” Rosen asked in the recording."
+          },
+          {
+            "type": "text",
+            "value": "“I know that’s,” Shipman said, pausing without finishing her sentence. “I mean they’d never—they shut down an entire library. … I’m so sorry. … This is just so sad. I just wished they could have picked another spot. ... Would’ve gone differently.”"
+          },
+          {
+            "type": "text",
+            "value": "Shipman told Rosen that NYPD officers were going to make arrests: “Once we call the police, we don’t control it anymore. We tried, but I’m sorry.” Then she indicated she had to leave. By the day’s end, the NYPD had <a href=\"https://www.columbiaspectator.com/news/2025/05/08/nypd-confirms-78-arrests-at-butler-library-protest-all-released-from-custody/\">arrested</a> 78 protesters."
+          },
+          {
+            "type": "text",
+            "value": "“I should probably go deal with this now,” Shipman said, and the call ended."
+          },
+          {
+            "type": "text",
+            "value": "Eye<i> Senior Staff Writer Jesse Levine and Senior Staff Reporter Ellie Carver-Horner contributed reporting.</i>"
+          },
+          {
+            "type": "text",
+            "value": "Eye <i>Deputy Editor Ann Vettikkal can be contacted at </i><i>ann.vettikkal@columbiaspectator.com</i><i>. Follow her on X @avettikkal.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Wilson Zhen can be contacted at </i><i>wilson.zhen@columbiaspectator.com</i><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Ava Fung can be contacted at </i><i>ava.fung@columbiaspectator.com</i><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with The Eye? Follow us on Instagram </i></b><a href=\"https://www.instagram.com/theeye.mag/\"><b><i>@theeye.mag</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Inside the Negotiation Room: How Dialogue Between Columbia and Pro-Palestinian Protesters Broke Down",
+        "date": "July 15, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/ann-vettikkal/\">Ann Vettikkal</a>",
+        "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/wilson-zhen/\">Wilson Zhen</a> and <a href=\"https://www.columbiaspectator.com/contributors/ava-fung/\">Ava Fung</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SWDB2PAXTZAXDBR24UM4ZG6U4U.jpeg",
+        "cover_caption": "Cover Illustration by Kelsea Petersen",
+        "USE_NEWS_NAV": false,
+        "USE_EYE_NAV": true,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1ePltOy8a5tks0XmGP-c6oqgR4T7HvN6LCkr1WZPWqpM/edit?usp=sharing"
       }
     }
   }
