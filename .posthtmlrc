@@ -74,7 +74,7 @@
               "width": "50%",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BXLWLSXK7RA2NLUIAFFJYC26CY.jpg",
               "caption": "Protesters gathered outside Hamilton Hall while dozens occupied the building at around 12:30 a.m. on April 30, 2024.",
-              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/gabriella-gregor-splaver/\">Gabriella Gregor Splaver </a>"
+              "credit": "Gabriella Gregor Splaver"
             }
           },
           {
@@ -286,7 +286,7 @@
               "width": "50%",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XV63VSQLJNH65AQN2YV7AYB3AQ.jpg",
               "caption": "As negotiations occurred between protesters and the administration, the encampment stayed active on South Lawn.",
-              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/stella-ragas/\">Stella Ragas</a>"
+              "credit": "Stella Ragas"
             }
           },
           {
@@ -549,7 +549,7 @@
               "width": "50%",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ITZM4REHNVFQ7NJFWQ7NARJJTM.jpg",
               "caption": "Police entered Columbia's campus after Shafik authorized the NYPD to arrest those inside Hamilton Hall.",
-              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/gabriella-gregor-splaver/\">Gabriella Gregor Splaver </a>"
+              "credit": "Gabriella Gregor Splaver"
             }
           },
           {
@@ -797,7 +797,7 @@
               "width": "50%",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SFEVAVB2FZF3JFIYBTRDHS4MBY.jpg",
               "caption": "Khalil speaking to the press during the April 2024 encampments.",
-              "credit": "<a href=\"https://www.columbiaspectator.com/contributors/heather-chen/\">Heather Chen</a>"
+              "credit": "Heather Chen"
             }
           },
           {
@@ -846,6 +846,7 @@
           }
         ],
         "headline": "Inside the Negotiation Room: How Dialogue Between Columbia and Pro-Palestinian Protesters Broke Down",
+        "dek":"",
         "date": "July 15, 2025",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/ann-vettikkal/\">Ann Vettikkal</a>",
         "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/wilson-zhen/\">Wilson Zhen</a> and <a href=\"https://www.columbiaspectator.com/contributors/ava-fung/\">Ava Fung</a>",
